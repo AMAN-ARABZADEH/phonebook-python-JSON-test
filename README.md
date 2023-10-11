@@ -30,7 +30,6 @@ Students will:
 
 
 
-3. Follow on-screen prompts to use the phonebook.
 
 ## Further Resources
 
