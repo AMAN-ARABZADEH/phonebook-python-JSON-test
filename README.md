@@ -1,7 +1,5 @@
 # Python Phonebook Project
 
-# Python Phonebook Project
-
 Welcome to the Python Phonebook Project! 
 This repository is specifically designed as a hands-on assignment for students diving deep into Python. 
 Through this project, students will have the opportunity to solidify their understanding by applying foundational concepts in a practical context. We delve into areas like file handling, 
