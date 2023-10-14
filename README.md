@@ -1,7 +1,6 @@
 # Phonebook Application
 
-This application serves as a hands-on experiment to understand and work with JSON (JavaScript Object Notation) in Python. By creating a phonebook application, the goal was to delve deeper into the nuances of handling JSON data, such as reading, writing, and managing structured data.
-
+This application serves as a hands-on experiment to understand and work with JSON (JavaScript Object Notation) in Python. 
 Technically, the project utilizes:
 - JSON for data storage.
 - Python's `json` module.
