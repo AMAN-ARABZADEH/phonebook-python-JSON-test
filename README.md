@@ -1,7 +1,5 @@
 # Phonebook Application
 
-### By Aman Arabzadeh
-
 This application serves as a hands-on experiment to understand and work with JSON (JavaScript Object Notation) in Python. By creating a phonebook application, the goal was to delve deeper into the nuances of handling JSON data, such as reading, writing, and managing structured data.
 
 Technically, the project utilizes:
