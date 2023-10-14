@@ -9,7 +9,7 @@ def multiply(x, y):
 
 def divide(x, y):
     if y == 0:
-        return "Undefined (division by zero)"
+        return "Undefined (division by zero)" 
     return x / y
 
 while True:
