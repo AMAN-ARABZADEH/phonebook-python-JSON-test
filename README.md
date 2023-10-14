@@ -1,9 +1,24 @@
-# Python Phonebook Project
+# Phonebook Application
 
-Welcome to the Python Phonebook Project! 
-This repository is specifically designed as a hands-on assignment for students diving deep into Python. 
-Through this project, students will have the opportunity to solidify their understanding by applying foundational concepts in a practical context. We delve into areas like file handling, 
-data structures, and object-oriented programming, ensuring a comprehensive and enriching learning experience.
+### By Aman Arabzadeh
+
+This application serves as a hands-on experiment to understand and work with JSON (JavaScript Object Notation) in Python. By creating a phonebook application, the goal was to delve deeper into the nuances of handling JSON data, such as reading, writing, and managing structured data.
+
+---
+
+### Why Use JSON for this Experiment?
+
+JSON is a lightweight data interchange format that is both human-readable and machine-friendly. For this experiment, JSON was chosen for several reasons:
+
+- **Simplicity**: JSON's straightforward structure made it an excellent choice for getting hands-on quickly without a steep learning curve.
+- **Practical Application**: With the widespread use of JSON in modern applications, experimenting with it provides practical knowledge that can be applied in real-world scenarios.
+- **Integrated Support in Python**: Python’s built-in `json` library makes it seamless to work with JSON data, thereby making the learning process smoother.
+- **Flexibility**: JSON's ability to represent complex nested structures allows for more in-depth experimentation as one's understanding progresses.
+- **Persistence**: For an application like a phonebook, persistently saving entries is crucial. JSON, with its textual format, made it possible to save, retrieve, and manipulate phonebook entries between sessions.
+
+The phonebook application acts as a playground to explore these features and understand the practical implications of working with JSON.
+
+---
 
 
 ## Project Overview
