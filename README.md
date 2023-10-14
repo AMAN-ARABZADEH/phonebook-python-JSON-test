@@ -26,6 +26,4 @@ Students will:
 
 ## License
 
-This project is licensed under the MIT License - an open-source license that promotes the free use, modification, and distribution of software. This means you're free to use, modify, and distribute this software as you see fit, provided you include the original copyright notice and disclaimers.
-
-For more details, please refer to the [LICENSE](LICENSE) file in this repository.
+This project is licensed under the MIT License - [LICENSE](LICENSE).
